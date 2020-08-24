@@ -1,0 +1,14 @@
+.buttons {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    column-rule-style: double;
+    color: blanchedalmond;
+
+}
+
+.bigger {
+   background-color: blue;
+}
